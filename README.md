@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Youssef+El-Basiouny;Intelligent+Systems+Engineering;Bridging+Hardware+and+Artificial+Intelligence;IoT+%7C+Bare-Metal+Firmware+%7C+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Youssef+El-Basiouny;Intelligent+Systems+Engineer;IoT+%7C+Bare-Metal+Firmware+%7C+Computer+Vision" alt="Typing SVG" />
 
-Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineering** student at Helwan National University, specializing in embedded systems, AI-driven navigation, and smart automation architectures. 
+Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** at Helwan National University, specializing in embedded systems, AI-driven navigation, and smart automation architectures. 
 
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00FF99?style=for-the-badge&logo=google-maps&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Seeking%202026%20Internships-blue?style=for-the-badge" />
 
@@ -53,8 +53,7 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineering
 ### 📊 System Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br>
