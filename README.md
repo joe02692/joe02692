@@ -6,6 +6,19 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00FF99?style=for-the-badge&logo=google-maps&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Seeking%202026%20Internships-blue?style=for-the-badge" />
 
+<br>
+
+<!-- TERMINAL SCREEN START -->
+  <table style="border-collapse: collapse; width: 600px;">
+    <tr>
+      <td align="left" bgcolor="#1A1B26" style="padding: 10px; border-radius: 8px;">
+        <img src="https://img.shields.io/badge/_-bash-1A1B26?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00FF99&background=1A1B26&center=false&vCenter=false&multiline=true&width=580&height=80&lines=%3E_+$+Executing+startup.sh...;%3E_+$+Loading+Bare-Metal+Drivers...;%3E_+$+Initializing+Neural+Nets...;%3E_+$+System+Ready.+Awaiting+Input." alt="Terminal Typing" />
+      </td>
+    </tr>
+  </table>
+<!-- TERMINAL SCREEN END -->
+
 ---
 
 </div>
@@ -53,7 +66,7 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 ### 📊 System Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe02692&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefelbasiouny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br>
