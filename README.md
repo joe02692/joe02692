@@ -66,7 +66,7 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 ### 📊 System Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefelbasiouny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joe02692&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br>
