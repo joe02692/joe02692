@@ -59,7 +59,6 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 | **[SmartVision AI Navigation](#)** | An AI-powered navigation assistant designed for visually impaired individuals, utilizing real-time object detection models to interpret surroundings. | `Python`, `YOLOv8`, `Transfer Learning` |
 | **[Defense Radar Simulation](#)** | *(In Development)* A 3D-printed radar system model integrated with AI-driven detection capabilities, blending hardware mechanics with software signal processing. | `C++`, `Hardware Design`, `Sensors` |
 
-*(Tip: Link the titles above directly to your repository URLs)*
 
 ---
 
