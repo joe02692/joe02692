@@ -37,6 +37,8 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge&logo=ultralytics&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 
 **Software & Web**<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -51,6 +53,14 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 
 ---
 
+### 🎓 Training & Certifications
+
+*   **Machine Learning & Deep Learning** — *Huawei ETA (Egypt Talent Academy)*
+*   **Artificial Intelligence Specialization** — *National Telecommunication Institute (NTI)*
+*   **Git & GitHub** — *Almdrasa*
+
+---
+
 ### 🚀 Featured Architecture & Projects
 
 | Project | Description | Tech Stack |
@@ -58,7 +68,6 @@ Welcome to my digital workshop. I'm a 3rd-year **Intelligent Systems Engineer** 
 | **[SmartHome OS v1.0](#)** | A custom home automation firmware built entirely from scratch. Features register-level manipulation, custom hardware drivers, and a safety-critical architecture. | `C`, `ATmega32`, `Bare-Metal` |
 | **[SmartVision AI Navigation](#)** | An AI-powered navigation assistant designed for visually impaired individuals, utilizing real-time object detection models to interpret surroundings. | `Python`, `YOLOv8`, `Transfer Learning` |
 | **[Defense Radar Simulation](#)** | *(In Development)* A 3D-printed radar system model integrated with AI-driven detection capabilities, blending hardware mechanics with software signal processing. | `C++`, `Hardware Design`, `Sensors` |
-
 
 ---
 
