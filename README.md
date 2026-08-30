@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF99&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Youssef+El-Basiouny;Intelligent+Systems+Engineer;Bare-Metal+Firmware+%7C+Computer+Vision;LLMs+%7C+RAG+%7C+Deep+Learning;Full-Stack+Web+%7C+Cloud+Architecture" alt="Typing SVG" />
 
-4rd-year **Intelligent Systems Engineer** at Helwan National University.
+4th-year **Intelligent Systems Engineer** at Helwan National University.
 I build systems end to end — from **register-level firmware** on bare metal, to **neural networks** that see and reason, to **production web platforms** running on the cloud.
 
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00FF99?style=for-the-badge&logo=googlemaps&logoColor=black" />
